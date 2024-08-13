@@ -1,0 +1,85 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿Cuál es el número primo más pequeño?",
+            "opciones": {
+                "a)": "1",
+                "b)": "2",
+                "c)": "3"
+            },
+            "correcta": "b)"
+        },
+        {
+            "pregunta": "¿Qué número se obtiene al sumar los primeros 5 números naturales?",
+            "opciones": {
+                "a)": "10",
+                "b)": "15",
+                "c)": "20"
+            },
+            "correcta": "b)"
+        },
+        {
+            "pregunta": "¿Qué número sigue en la secuencia: 2, 4, 8, 16, ...?",
+            "opciones": {
+                "a)": "20",
+                "b)": "24",
+                "c)": "32"
+            },
+            "correcta": "c)"
+        },
+        {
+            "pregunta": "¿Cuál es el valor de 7 al cuadrado?",
+            "opciones": {
+                "a)": "14",
+                "b)": "49",
+                "c)": "77"
+            },
+            "correcta": "b)"
+        },
+        {
+            "pregunta": "¿Cuál es la raíz cuadrada de 64?",
+            "opciones": {
+                "a)": "6",
+                "b)": "7",
+                "c)": "8"
+            },
+            "correcta": "c)"
+        },
+        {
+            "pregunta": "¿Qué número sigue en la secuencia: 3, 9, 27, 81, ...?",
+            "opciones": {
+                "a)": "243",
+                "b)": "100",
+                "c)": "160"
+            },
+            "correcta": "a)"
+        }, 
+        {
+            "pregunta": "¿Cuál es la raíz cuadrada de 36?",
+            "opciones": {
+                "a)": "4",
+                "b)": "5",
+                "c)": "6"
+            },
+            "correcta": "c)"
+        },
+        {
+            "pregunta": "¿Cuál no es divisor de 12",
+            "opciones": {
+                "a)": "4",
+                "b)": "5",
+                "c)": "3"
+            },
+            "correcta": "b)"
+        },
+        {
+            "pregunta": "¿Cuál no es divisor de 15",
+            "opciones": {
+                "a)": "4",
+                "b)": "5",
+                "c)": "3"
+            },
+            "correcta": "a)"
+        }
+    ]
+}
